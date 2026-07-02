@@ -212,6 +212,7 @@ h3 { margin-bottom: 6px; font-size: 18px; }
 .raw-table th {
   position: sticky;
   top: 0;
+  text-align: center;
   color: #6d625b;
   background: #f6eee5;
   font-weight: 800;
